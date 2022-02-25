@@ -8,7 +8,7 @@ python run.py
 # output
 
 ```
-/Users/sagargiri/Envs/spenditure/bin/python /Users/sagargiri/Development/todotest/run.py
+python run.py
 
 
 l: List all the todos
