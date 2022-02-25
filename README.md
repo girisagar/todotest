@@ -81,4 +81,31 @@ Please choose one of the options above: l
 1 . install python
 2 . download pycharm
 ************************************
+l: List all the todos
+a: Add new todo
+u: update todo
+d: delete todo
+q: quit
+Please choose one of the options above: d
+
+********* List of all the todos **********
+0 . Download Python
+1 . install python
+2 . download pycharm
+************************************
+
+Please choose the index to delete: 1
+
+
+l: List all the todos
+a: Add new todo
+u: update todo
+d: delete todo
+q: quit
+Please choose one of the options above: l
+
+********* List of all the todos **********
+0 . Download Python
+1 . download pycharm
+************************************
 ```
