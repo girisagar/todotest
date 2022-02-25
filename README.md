@@ -5,7 +5,7 @@ Just a simple todos written in python.
 # run
 python run.py
 
-#output
+# output
 
 ```
 /Users/sagargiri/Envs/spenditure/bin/python /Users/sagargiri/Development/todotest/run.py
