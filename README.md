@@ -81,6 +81,7 @@ Please choose one of the options above: l
 1 . install python
 2 . download pycharm
 ************************************
+
 l: List all the todos
 a: Add new todo
 u: update todo
